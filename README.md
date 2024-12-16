@@ -1,10 +1,11 @@
-# CPEFInalProject
+# CPE Final Project
 Swamp Cooler
 Cole Gilliam & Jordan Cadelina
 -DHT sensor was not able to work
--RTC was able to work, too late to implement
--Servo motor / vent not implemented due to time
--Fan not implemented due to time
+
+VIDEO DISCLAMER
+-DHT sensor not implemented so going to RUNNING state was done by pushing the START / STOP button as an adaption
+
 
 COMMITS
 -Code was worked on in person so no commits were consistantly made
