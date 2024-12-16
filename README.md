@@ -1,6 +1,9 @@
 # CPE Final Project
 Swamp Cooler
 Cole Gilliam & Jordan Cadelina
+
+FINAL CODE VERSION: RevisedFinalProjectCode.ino
+
 -DHT sensor was not able to work
 
 VIDEO DISCLAMER
